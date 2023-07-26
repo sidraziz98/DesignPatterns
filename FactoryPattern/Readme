@@ -1,0 +1,3 @@
+Factory Pattern has following:
+- basic classes for products and their corresponding factories to create them
+- specialized classes for different kinds of products and their factories

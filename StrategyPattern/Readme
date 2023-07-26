@@ -1,0 +1,4 @@
+Strategy Pattern has following:
+- an interface that defines required methods
+- concrete classes which define implementation of required methods
+- a context class that has reference to these different strategy classes and calls the required one instead of executing different methods itself
